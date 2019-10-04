@@ -12,7 +12,7 @@ public class main {
 		
 		IvCalc.cpMultiplier2();
 		IvCalc.cpMultiplier4();
-		IvCalc.pvpCalc(1500, "liepard" , 1, 11, 11);
+		IvCalc.pvpCalc(1500, "Charizard" , 1, 11, 11);
 		 
 	}
 }
